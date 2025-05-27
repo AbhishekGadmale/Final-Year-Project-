@@ -27,7 +27,7 @@ face-recognition-based-attendance-system-master/ │ ├── app.py           
 ## How to Run (Once You Have a PC)
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/attendance-system
+   git clone https://github.com/AbhishekGadmale/attendance-system
 
 2. Navigate to the folder:
 
